@@ -18,5 +18,5 @@ const isLeap = (year) => {
   }
 };
 
-let year = 2000
+let year = 1997
 console.log(isLeap(year))
